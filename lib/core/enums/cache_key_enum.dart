@@ -1,0 +1,1 @@
+enum CacheKeys { userUID, counter }
